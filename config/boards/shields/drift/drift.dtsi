@@ -1,19 +1,17 @@
 // Copyright (c) 2024 Timception
 // SPDX-License-Identifier: MIT
 #include <dt-bindings/zmk/matrix_transform.h>
-//#include <8column.dtsi>
+#include <layouts/drift/8column.dtsi>
 
-//&drift_8col_layout {
-//    transform = <&default_transform>;
-//};
-
+&drift_8col_layout {
+    transform = <&default_transform>;
+};
 
 / {
     chosen {
         zephyr,display = &oled;
 		zmk,kscan = &kscan0;
-		//zmk,physical-layout = &drift_8col_layout;
-		zmk,matrix_transform = &default_transform;
+		zmk,physical-layout = &drift_8col_layout;
     };
 
     default_transform: keymap_transform_0 {
