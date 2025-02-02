@@ -1,7 +1,7 @@
 // Copyright (c) 2024 Timception
 // SPDX-License-Identifier: MIT
 #include <dt-bindings/zmk/matrix_transform.h>
-#include <layouts/drift/8column.dtsi>
+include <layouts/drift/8column.dtsi>
 
 &drift_8col_layout {
     transform = <&default_transform>;
