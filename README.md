@@ -1,4 +1,4 @@
-# Drift Keyboard by Timception (Wireless)
+# Drift Keyboard Wireless (by Timception)
 
 This is the wireless ZMK version of the Drift Keyboard, an ortholinear 68-key split keyboard with mild columnar stagger.
 
