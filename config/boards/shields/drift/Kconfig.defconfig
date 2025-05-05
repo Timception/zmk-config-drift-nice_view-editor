@@ -1,7 +1,7 @@
 if SHIELD_drift_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Drift V3"
+    default "Drift V3N"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
