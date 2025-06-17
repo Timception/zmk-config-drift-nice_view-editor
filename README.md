@@ -1,4 +1,4 @@
-# Drift Keyboard V3 (by Timception) With NICE!VIEW Enabled  
+## Drift Keyboard V3 (by Timception) With NICE!VIEW Enabled  
 This is the wireless ZMK version of the [Original Drift Keyboard](https://github.com/Timception/Drift)  
 
 ### Edit your Keyboard Keymap Here: [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
